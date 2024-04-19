@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.example.com/SwiftIgniteSite//sitemap.xml
+Sitemap: https://cwalter50.github.io/SwiftIgniteSite//sitemap.xml
