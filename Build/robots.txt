@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.example.com/GitRepoName//sitemap.xml
+Sitemap: https://www.example.com/SwiftIgniteSite//sitemap.xml
